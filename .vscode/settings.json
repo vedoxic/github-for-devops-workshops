@@ -1,0 +1,8 @@
+{
+    "files.watcherExclude": {
+        "": true
+    },
+    "typescript.preferences.autoImportFileExcludePatterns": [
+        "**/.git"
+    ]
+}
