@@ -1,0 +1,8 @@
+Git Command :
+1. Git init --> To convert File system to Version Control System.
+2. Git status --> To check stages/status of files on VCM.
+3. Git add <FileName> --> To convert Untracked to Stage mode.
+4. Git add . --> To convert all Untracked files to Stage mode at a Time.
+5. Git rm --cached <FilelName> --> To convert Staged mode to Untracked mode.
+6. Git Commit -m "message" --> To convert Staged mode to Tracked mode.
+7. Git restore <FileName> --> To restore the deleted file.
